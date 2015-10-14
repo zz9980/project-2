@@ -1,4 +1,5 @@
-# project-2:  Pool table with colliding balls.  (See exercise x5)
+# project-2:  
+Pool table with colliding balls.  (See exercise x5)
 
 Three pool balls, each with a different color and a different number on it.  
 
