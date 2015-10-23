@@ -123,7 +123,7 @@ void show() {
   //fill( 255,255,255 );    ellipse( redX,redY, 30,30 );
   
   fill( 255,0,0 );        ellipse( redX,redY, 30,30 );
-  fill( 255,255,0 );      ellipse( greenX,greenY, 30,30 );
+  fill( 0,255,0 );      ellipse( greenX,greenY, 30,30 );
   fill( 0,0,255 );        ellipse( blueX,blueY, 30,30 );
   fill( 255,255,255 );    ellipse( cueX,cueY, 30,30 );
     
